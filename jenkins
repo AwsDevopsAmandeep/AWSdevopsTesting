@@ -2,10 +2,10 @@ pipeline {
     
 agent any
 
-stages { stage('susa') 
+stages { stage('aman') 
 { 
     steps {
-    echo 'Hello world'
+    echo 'Hello world aman'
         
     }
     
